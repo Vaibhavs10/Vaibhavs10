@@ -20,6 +20,7 @@ tree.add(":runner: Runner")
 about = """\
 I’m a Student Researcher at University of Stuttgart (Computational Linguistics) focusing on extracting better insights from Text + Audio. 
 Been a freelancer, tax analyst and a consultant for the past 5 years. 
+
 I’ve invested significant time in past 3 years volunteering for open source and science organisations like Hugging Face, EuroPython, PyCons across APAC.
 
 Delhi native, I now live in Stuttgart, Germany!
