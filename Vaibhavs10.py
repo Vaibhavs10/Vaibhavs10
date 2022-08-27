@@ -4,7 +4,7 @@ from rich.console import Console
 from rich.panel import Panel
 from rich.tree import Tree
 
-console = Console(record=True, width=100)
+console = Console(record=True, width=110)
 
 tree = Tree(":call_me_hand: [link=https://www.vaibhav.wiki]Vaibhav (VB) Srivastav", guide_style="bold cyan")
 python_tree = tree.add(":computer: Computational Linguist | ML Engineer", guide_style="green")
@@ -24,7 +24,7 @@ I’ve invested significant time in past 3 years volunteering for open source an
 
 Delhi native, I now live in Stuttgart, Germany!
 
-Follow me on Twitter [link=https://twitter.com/reach_vb]@reach_vb ::love_you_gesture:
+Follow me on Twitter [link=https://twitter.com/reach_vb]@reach_vb <3
 """
 
 panel = Panel.fit(
