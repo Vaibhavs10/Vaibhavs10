@@ -18,12 +18,12 @@ interests_tree.add("Python and adjacent communities")
 tree.add(":runner: Runner")
 
 about = """\
-I’m a Student Researcher at University of Stuttgart focusing on extracting better insights from Text + Audio. 
-Been a freelancer, tax analyst and a consultant for the past 5 years. 
+I’m a Developer Advocate at Hugging Face focusing on open source, audio & on-device ML.
+Been a freelancer, tax analyst and a consultant for the past 5 years.
 
 I’ve invested significant time in past 3 years volunteering for open source and science organisations like Hugging Face, EuroPython, PyCons across APAC.
 
-Delhi native, I now live in Stuttgart, Germany!
+Delhi native, I now live in Paris, France!
 
 Follow me on Twitter! [link=https://twitter.com/reach_vb]@reach_vb
 """
