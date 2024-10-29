@@ -13,15 +13,15 @@ python_tree.add("⭐ [link=https://github.com/Vaibhavs10/how-to-asr]How to ASR")
 python_tree.add("⭐ [link=https://github.com/Vaibhavs10/anli-performance-prediction]Performance Prediction")
 interests_tree = tree.add(":speaking_head: Interests")
 interests_tree.add("Speech Enhancement & Generation")
-interests_tree.add("Text Understanding")
-interests_tree.add("Python and adjacent communities")
+interests_tree.add("LLM Inference")
+interests_tree.add("On-device/ Quantisation")
 tree.add(":runner: Runner")
 
 about = """\
-I’m a Developer Advocate at Hugging Face focusing on open source, audio & on-device ML.
-Been a freelancer, tax analyst and a consultant for the past 5 years.
+I’m a GPU Poor in Residence at Hugging Face focusing on open source, audio & on-device ML.
+Been a freelancer, tax analyst and a consultant for the past 6 years.
 
-I’ve invested significant time in past 3 years volunteering for open source and science organisations like Hugging Face, EuroPython, PyCons across APAC.
+I’ve invested significant time in past 4 years volunteering for open source and science organisations like Hugging Face, EuroPython, PyCons across APAC.
 
 Delhi native, I now live in Paris, France!
 
