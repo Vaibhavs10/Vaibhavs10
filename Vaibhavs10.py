@@ -6,22 +6,22 @@ from rich.tree import Tree
 
 console = Console(record=True, width=110)
 
-tree = Tree(":call_me_hand: [link=https://www.vaibhav.wiki]Vaibhav (VB) Srivastav", guide_style="bold cyan")
+tree = Tree(":call_me_hand: [link=https://vaibhavs10.github.io]Vaibhav (VB) Srivastav", guide_style="bold cyan")
 python_tree = tree.add(":computer: Computational Linguist | ML Engineer", guide_style="green")
-python_tree.add("⭐ [link=https://github.com/Vaibhavs10/ml-with-audio]ML with Audio")
+python_tree.add("⭐ [link=https://github.com/Vaibhavs10/insanely-fast-whisper]Insanely Fast Whisper")
 python_tree.add("⭐ [link=https://github.com/Vaibhavs10/how-to-asr]How to ASR")
 python_tree.add("⭐ [link=https://github.com/Vaibhavs10/anli-performance-prediction]Performance Prediction")
 interests_tree = tree.add(":speaking_head: Interests")
-interests_tree.add("Speech Enhancement & Generation")
-interests_tree.add("LLM Inference")
-interests_tree.add("On-device/ Quantisation")
+interests_tree.add("On-device and LLM Inference")
+interests_tree.add("Evaluations")
+interests_tree.add("Product/ Growth Hacking")
 tree.add(":runner: Runner")
 
 about = """\
-I’m a GPU Poor in Residence at Hugging Face focusing on open source, audio & on-device ML.
-Been a freelancer, tax analyst and a consultant for the past 6 years.
+I lead the community and platform efforts at Hugging Face focusing on open source, audio & on-device ML.
+Been a freelancer, tax analyst and a consultant for the past ~10 years.
 
-I’ve invested significant time in past 4 years volunteering for open source and science organisations like Hugging Face, EuroPython, PyCons across APAC.
+I’ve invested significant time in past 6 years volunteering for open source and science organisations like Hugging Face, EuroPython, PyCons across APAC.
 
 Delhi native, I now live in Paris, France!
 
