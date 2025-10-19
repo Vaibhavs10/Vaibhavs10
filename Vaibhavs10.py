@@ -18,7 +18,7 @@ interests_tree.add("Product/ Growth Hacking")
 tree.add(":runner: Runner")
 
 about = """\
-I lead the community and platform efforts at Hugging Face focusing on open source, audio & on-device ML.
+I am the Head of Developer Experience and Community at Hugging Face focusing on open source, audio & on-device ML.
 Been a freelancer, tax analyst and a consultant for the past ~10 years.
 
 I’ve invested significant time in past 6 years volunteering for open source and science organisations like Hugging Face, EuroPython, PyCons across APAC.
